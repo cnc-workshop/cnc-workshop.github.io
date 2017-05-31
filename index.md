@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Concurrent Collections (CnC) Annual Workshops
 
-You can use the [editor on GitHub](https://github.com/cnc-workshop/cnc-workshop.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Workshop Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnc-workshop/cnc-workshop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [CnC'17 (9th)](/cnc2017/)
+* [CnC'16 (8th)](https://cncworkshop2016.github.io/)
+* [CnC'15 (7th)](https://engineering.purdue.edu/plcl/cnc2015/index.html)
+* [CnC'14 (6th)](http://cass-mt.pnnl.gov/cnc2014)
+* [CnC'13 (5th)](http://web.cs.ucla.edu/~pouchet/cnc2013)
+* [CnC'12 (4th)](http://i2pc.cs.illinois.edu/cnc2012/index.html)
+* [CnC'11 (3rd)](http://cnc11.hpcgarage.org)
+* [CnC'10 (2nd)](http://cnc10.rice.edu)
+* CnC'09 (1st) [no link]
