@@ -1,6 +1,4 @@
-# Concurrent Collections (CnC) Annual Workshops
-
-## Workshop Pages
+## Concurrent Collections (CnC) Annual Workshop Pages
 
 * [CnC'17 (9th)](/cnc2017/)
 * [CnC'16 (8th)](https://cncworkshop2016.github.io/)
