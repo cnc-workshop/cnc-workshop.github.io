@@ -1,5 +1,6 @@
 ## CnC Annual Workshop Pages
 
+* [CnC'20 (12th)](/cnc2020/)
 * [CnC'19 (11th)](/cnc2019/)
 * [CnC'18 (10th)](/cnc2018/)
 * [CnC'17 (9th)](/cnc2017/)
